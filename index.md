@@ -18,13 +18,15 @@ banner: true
 						<section>
 							<header>
 								<h2>Mission E</h2>
-								<h3>A subheading about who we are</h3>
+								<h3>We are on mission E:</h3>
 							</header>
 							<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
 							<p>
-								Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed.
-								Suspendisse eu varius nibh. Suspendisse vitae magna eget odio amet mollis
-								justo facilisis quis. Sed sagittis mauris amet tellus gravida lorem ipsum.
+								<b>1.</b> Educate<br>
+								<b>2.</b> Enlighten<br>
+								<b>3.</b> Entertain<br>
+								<br>
+								The masses
 							</p>
 						</section>
 
@@ -35,14 +37,12 @@ banner: true
 						<section>
 							<header>
 								<h2>What We Do</h2>
-								<h3>A subheading about what we do</h3>
+								<h3>Currently we are upto:</h3>
 							</header>
 							<ul class="check-list">
-								<li>Sed mattis quis rutrum accum</li>
-								<li>Eu varius nibh suspendisse lorem</li>
-								<li>Magna eget odio amet mollis justo</li>
-								<li>Facilisis quis sagittis mauris</li>
-								<li>Amet tellus gravida lorem ipsum</li>
+								<li>Featuring art from all genres</li>
+								<li>Book suggestions and reviews</li>
+								<li>Challenges and prompts for artists</li>
 							</ul>
 						</section>
 
@@ -57,19 +57,19 @@ banner: true
 							</header>
 							<ul class="quote-list">
 								<li>
-									<img src="images/pic06.jpg" alt="" />
+									<img src="images/kashudp.jpg" alt="" />
 									<p>"I love witchcraft"</p>
-									<span>Kashish Shivani</span>
+									<span><a href="https://www.instagram.com/shivkashi_here/" target="_blank"> Kashish Shivani</a></span>
 								</li>
 								<li>
-									<img src="images/pic07.jpg" alt="" />
+									<img src="images/devdp.jpg" alt="" />
 									<p>"I love the witch"</p>
-									<span>Devesh Anand Srivastava</span>
+									<span><a href="https://www.instagram.com/dev_anand_here/" target="_blank">Devesh Anand Srivastava</a></span>
 								</li>
 								<li>
-									<img src="images/pic08.jpg" alt="" />
+									<img src="images/shivamdp.jpg" alt="" />
 									<p>"I wrote the story"</p>
-									<span>Shivam Verma</span>
+									<span><a href="https://twitter.com/Shivam_v" target="_blank">Shivam Verma</a></span>
 								</li>
 							</ul>
 						</section>
