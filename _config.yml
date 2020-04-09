@@ -1,0 +1,20 @@
+# Site wide configuration
+
+title: Artifexnest
+description: A hub for artists
+url:
+
+owner: 
+    name: Artifexnest
+    email: artifexnest@gmail.com
+    pinterest:
+    bing:
+    alexa:
+    google:
+        verify: 
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock","LICENSE", "node_modules", "Gruntfile.js", "package.json"]
