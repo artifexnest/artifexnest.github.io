@@ -20,14 +20,13 @@ banner: true
 								<h2>Mission E</h2>
 								<h3>We are on mission E:</h3>
 							</header>
-							<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
-							<p>
-								<b>1.</b> Educate<br>
-								<b>2.</b> Enlighten<br>
-								<b>3.</b> Entertain<br>
-								<br>
-								The masses
-							</p>
+							<!--<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>-->
+							<ul class="link-list">
+								<li>Educate</li>
+								<li>Enlighten</li>
+								<li>Entertain</li>
+							</ul>
+							<p>       The masses</p>
 						</section>
 
 				</div>
@@ -69,7 +68,7 @@ banner: true
 								<li>
 									<img src="images/shivamdp.jpg" alt="" />
 									<p>"I wrote the story"</p>
-									<span><a href="https://twitter.com/Shivam_v" target="_blank">Shivam Verma</a></span>
+									<span><a href="https://twitter.com/Shivam__v" target="_blank">Shivam Verma</a></span>
 								</li>
 							</ul>
 						</section>
