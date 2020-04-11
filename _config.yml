@@ -17,4 +17,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
+  plugins:
+  - jekyll-seo-tag
+
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock","LICENSE", "node_modules", "Gruntfile.js", "package.json"]
