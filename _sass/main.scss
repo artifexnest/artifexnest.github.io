@@ -85,12 +85,14 @@
 
 	.link-list {
 		li {
-			padding: 0.2em 0 0.2em 0;
+			padding: 0.7em 0 0.7em 45px;
 			
 
 			&:first-child {
 				padding-top: 0 !important;
 				border-top: 0 !important;
+				background-position: 0 0.3em;
+
 			}
 
 			&:last-child {
