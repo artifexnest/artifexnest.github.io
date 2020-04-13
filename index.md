@@ -26,7 +26,6 @@ banner: true
 								<li>Enlighten</li>
 								<li>Entertain</li>
 							</ul>
-							<p>       The masses</p>
 						</section>
 
 				</div>
