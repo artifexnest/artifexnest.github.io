@@ -66,8 +66,8 @@ banner: true
 								</li>
 								<li>
 									<img src="images/shivamdp.jpg" alt="" />
-									<p>"I wrote the story"</p>
-									<span><a href="https://twitter.com/Shivam__v" target="_blank">Shivam Verma</a></span>
+									<p>"I wrote the witch-lore"</p>
+									<span><a href="https://www.instagram.com/shivam__v" target="_blank">Shivam Verma</a></span>
 								</li>
 							</ul>
 						</section>
