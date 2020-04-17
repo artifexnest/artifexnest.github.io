@@ -1,7 +1,7 @@
 # Items for footer
 - widget: # widget 1
   links:
-    - description: Neque amet dapibus
+    - description: abc
       url: "#"
 
     #- description: Sed mattis quis rutrum
@@ -15,7 +15,7 @@
 
 - widget: # widget 2
   links:
-    - description: Neque amet dapibus
+    - description: def
       url: "#"
 
     #- description: Sed mattis quis rutrum
@@ -29,7 +29,7 @@
 
 - widget: # widget 3
   links:
-    - description: Neque amet dapibus
+    - description: ghi
       url: "#"
 
     #- description: Sed mattis quis rutrum
@@ -43,7 +43,7 @@
 
 - widget: # widget 4
   links:
-    - description: Neque amet dapibus
+    - description: jkl
       url: "#"
 
     #- description: Sed mattis quis rutrum
