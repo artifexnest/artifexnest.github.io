@@ -1,8 +1,8 @@
 # Items for footer
 - widget: # widget 1
   links:
-    - description: abc
-      url: "#"
+    - description: Series reviews
+      url: "/threecolumn"
 
     #- description: Sed mattis quis rutrum
     #  url: "#"
@@ -15,8 +15,8 @@
 
 - widget: # widget 2
   links:
-    - description: def
-      url: "#"
+    - description: About Us
+      url: "/onecolumn"
 
     #- description: Sed mattis quis rutrum
     #  url: "#"
@@ -29,8 +29,8 @@
 
 - widget: # widget 3
   links:
-    - description: ghi
-      url: "#"
+    - description: Our Family
+      url: "/onecolumn"
 
     #- description: Sed mattis quis rutrum
     #  url: "#"
@@ -43,8 +43,8 @@
 
 - widget: # widget 4
   links:
-    - description: jkl
-      url: "#"
+    - description: Contact Us
+      url: "/twocolumn2"
 
     #- description: Sed mattis quis rutrum
     #  url: "#"

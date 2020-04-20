@@ -9,8 +9,8 @@
 - title: About Us
   url: /twocolumn1/
 
-- title: "Two Column #2"
-  url: /twocolumn2/
-
 - title: Our Family
   url: /onecolumn/
+
+- title: "Contact Us"
+  url: /twocolumn2/
