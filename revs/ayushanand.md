@@ -2,7 +2,6 @@
 layout: twocolumn1
 title: Kota Factory
 subtitle: by Ayush Anand
-permalink: /revs/ayushanand
 ---
 ig handle: <a href="https://www.instagram.com/ayushanand._" target="_blank">@ayushanand._</a>
 
