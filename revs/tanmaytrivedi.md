@@ -2,8 +2,7 @@
 layout: twocolumn1
 title: Suits
 subtitle: by Tanmay Trivedi
----
-Thats_not_funny_tanmay 
+--- 
 ig handle: <a href="https://www.instagram.com/Thats_not_funny_tanma" target="_blank">@Thats_not_funny_tanma</a>
 
 "Nasamajh ko kya samajh gustakhi kya cheez hoti hai
