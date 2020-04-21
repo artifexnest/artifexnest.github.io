@@ -4,17 +4,17 @@
 - widget:
   title: Magna Phasellus
   links:
-    - description: Sed dolore viverra
-      url: "#"
+    - description: Our Instagram
+      url: "https://www.instagram.com/artifexnest"
 
-    - description: Ligula non varius
-      url: "#"
+    - description: About Us
+      url: "/twocolumn1"
 
-    - description: Nec sociis natoque
-      url: "#"
+    - description: Our Family
+      url: "/onecolumn"
 
-    - description: Penatibus et magnis
-      url: "#"
+    - description: Contact us
+      url: "/twocolumn2"
 
     #- description: Dis parturient montes
     #  url: "#"
