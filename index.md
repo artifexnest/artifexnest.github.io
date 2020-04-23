@@ -51,22 +51,22 @@ banner: true
 						<section>
 							<header>
 								<h2>Team Artifexnest</h2>
-								<h3>The ones who took the initiative...</h3>
+								<h3>Guardians of Artifex Nest</h3>
 							</header>
 							<ul class="quote-list">
 								<li>
 									<img src="images/kashudp.jpg" alt="" />
-									<p>"I love witchcraft"</p>
+									<p>"I am ShivKashi, Maya, Gulaabo and Guardian of Artifex Nest"</p>
 									<span><a href="https://www.instagram.com/shivkashi_here/" target="_blank"> Kashish Shivani</a></span>
 								</li>
 								<li>
 									<img src="images/devdp.jpg" alt="" />
-									<p>"I love the witch"</p>
+									<p>"Devo ke dev Dev 'esh'. I eat, piss and think at ligtning speed"</p>
 									<span><a href="https://www.instagram.com/dev_anand_here/" target="_blank">Devesh Anand Srivastava</a></span>
 								</li>
 								<li>
 									<img src="images/shivamdp.jpg" alt="" />
-									<p>"I wrote the witch-lore"</p>
+									<p>"Anything politics? I will know it"</p>
 									<span><a href="https://www.instagram.com/shivam__v" target="_blank">Shivam Verma</a></span>
 								</li>
 							</ul>
