@@ -61,7 +61,7 @@ banner: true
 								</li>
 								<li>
 									<img src="images/devdp.jpg" alt="" />
-									<p>"Devo ke dev Dev 'esh'. I eat, piss and think at ligtning speed"</p>
+									<p>"Coding, comedy and change. That's life"</p>
 									<span><a href="https://www.instagram.com/dev_anand_here/" target="_blank">Devesh Anand Srivastava</a></span>
 								</li>
 								<li>
