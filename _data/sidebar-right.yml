@@ -6,13 +6,13 @@
       url: "https://www.instagram.com/artifexnest"
 
     - description: About Us
-      url: "/twocolumn1"
+      url: "/aboutus"
 
     - description: Our Family
-      url: "/onecolumn"
+      url: "/ourfamily"
 
     - description: Contact us
-      url: "/twocolumn2"
+      url: "/contactus"
 
     #- description: Dis parturient montes
     #  url: "#"

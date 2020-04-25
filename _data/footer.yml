@@ -2,7 +2,7 @@
 - widget: # widget 1
   links:
     - description: Series reviews
-      url: "/threecolumn"
+      url: "/reviews"
 
     #- description: Sed mattis quis rutrum
     #  url: "#"
@@ -16,7 +16,7 @@
 - widget: # widget 2
   links:
     - description: About Us
-      url: "/onecolumn"
+      url: "/aboutus"
 
     #- description: Sed mattis quis rutrum
     #  url: "#"
@@ -30,7 +30,7 @@
 - widget: # widget 3
   links:
     - description: Our Family
-      url: "/onecolumn"
+      url: "/ourfamily"
 
     #- description: Sed mattis quis rutrum
     #  url: "#"
@@ -44,7 +44,7 @@
 - widget: # widget 4
   links:
     - description: Contact Us
-      url: "/twocolumn2"
+      url: "/contactus"
 
     #- description: Sed mattis quis rutrum
     #  url: "#"
