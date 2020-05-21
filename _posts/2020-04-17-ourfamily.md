@@ -14,6 +14,8 @@ permalink: /ourfamily/
 
     <li><a href="https://www.instagram.com/its_hp8" target="_blank">Harsh Pal</a></li>
 
+    <li><a href="https://www.instagram.com/shauryaaa._.11" target="_blank">Shaurya Narula</a></li>
+
     <li><a href="https://www.instagram.com/_mr_._dixit" 
     target="_blank">Abhishek Dixit</a></li>
 
